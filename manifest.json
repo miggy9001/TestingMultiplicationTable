@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Test Multiplication",
+    "version": "0.0.1",
+
+    "background": {
+        "scripts": ["/background.js"] 
+    }
+}
